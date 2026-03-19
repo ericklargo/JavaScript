@@ -6,7 +6,6 @@
   />
   JavaScript
 </h1>
-"This is a project to show how to use stack in JavaScript."
 
 JavaScript es un lenguaje de programación ligero e interpretado que maneja funciones de primera clase, es decir, las funciones pueden tratarse como variables u objetos comunes.
 
