@@ -11,9 +11,9 @@ class Stack {
         if (this.isEmpty()) {
             return null;
         }
-        let elemento = this.items[this.items.length - 1];
+        let element = this.items[this.items.length - 1];
         this.items.length = this.items.length - 1;
-        return elemento;
+        return element;
     }
 
     peek() {
