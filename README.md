@@ -22,14 +22,13 @@ JavaScript soporta múltiples paradigmas de programación:
 * Orientado a Objetos
 
 Paradigma Utilizado
-- Imperativo
+- Orientado a Objetos
 
-El paradigma imperativo se basa en una programación secuencial, enfocándose en cómo se realizan las acciones dentro del programa.
-
-Se caracteriza por:
-
-Uso de estructuras de control de flujo.
+En este ejemplo definimos una clase que encapsula estado y comportamiento mediante objetos, haciendo uso explicito del encapsulamiento.
 
 Ejecución paso a paso de instrucciones.
-
-Descripción explícita del proceso a seguir.
+Para la ejecución de la aplicación de prueba en JavaScript se descargo el entorno de ejecucion Node.js.
+1. Acceder a la pagina de Node.js https://nodejs.org
+2. Descargar Node.js (versión decargada v.24.14.0).
+3. Instalar Node.js .
+4. Luego instalar la extension Code Runner y ejecutar el programa 
